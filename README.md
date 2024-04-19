@@ -13,6 +13,10 @@ pip install aiohttp brotli
 
 ## Usage
 
+```
+pip install deeplex
+```
+
 ```python
 import asyncio
 import deeplex
