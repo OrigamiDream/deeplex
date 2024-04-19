@@ -28,7 +28,7 @@ setup(
         'mling'
     ],
     classifiers=[
-        'Development Status : 4 - Beta',
+        'Development Status :: 4 - Beta',
         'Intended Audience :: Developers',
         'Environment :: Web Environment',
         'License :: OSI Approved :: MIT License',
